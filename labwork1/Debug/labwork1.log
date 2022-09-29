@@ -1,0 +1,3 @@
+﻿  labwork1.cpp
+C:\Nicat\addition\vgtu\c++\labwork1\labwork1\labwork1.cpp(133,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  labwork1.vcxproj -> C:\Nicat\addition\vgtu\c++\labwork1\Debug\labwork1.exe
